@@ -1,0 +1,3 @@
+dev branch!
+we NEVER work directly on the dev or main branches! 
+make your own branches off of dev to work on your features. when ready, tell your lead and we may merge your feature branch to dev.
